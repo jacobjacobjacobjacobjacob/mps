@@ -1,2 +1,7 @@
-.venv
+venv/
 *.json
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
